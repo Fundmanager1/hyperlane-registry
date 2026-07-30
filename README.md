@@ -1,6 +1,6 @@
 # Hyperlane Registry
 
-A collection of configs, artifacts, and schemas for Hyperlane. See the [documentation](https://docs.hyperlane.xyz/docs/reference/registries) for more information.
+A collection of configs, artifacts, and schemas for Hyperlane using QOMX/Q token on BNB/Binance Smart Chain.. See the [documentation](https://docs.hyperlane.xyz/docs/reference/registries) for more information.
 
 ## Contents
 
